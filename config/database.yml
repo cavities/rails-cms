@@ -1,0 +1,15 @@
+production:
+  adapter: mysql2
+  database: RailsCms
+  host: localhost
+  username: RailsCms
+  password: 5253134
+  encoding: utf8
+
+development:
+  adapter: mysql2
+  database: RailsCms
+  host: localhost
+  username: RailsCms
+  password: 5253134
+  encoding: utf8

@@ -1,0 +1,9 @@
+/.bundle
+/db/.sqlite3
+/db/*.log
+/tmp
+doc/
+*.swp
+*~
+.procject
+.idea
